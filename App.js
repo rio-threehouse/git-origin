@@ -5,6 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>master_commit1</Text>
+      <Text>master_commit2</Text>
     </View>
   );
 }
